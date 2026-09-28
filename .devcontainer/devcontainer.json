@@ -1,0 +1,14 @@
+{
+  "name": "apoc",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "root",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack"
+      ]
+    }
+  }
+}
